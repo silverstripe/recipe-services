@@ -14,11 +14,11 @@ matrix:
   include:
     - php: 7.1
       env: DB=MYSQL
-    - php: 7.1
-      env: DB=PGSQL
     - php: 7.2
-      env: DB=MYSQL
+      env: DB=PGSQL
     - php: 7.3
+      env: DB=MYSQL
+    - php: 7.4
       env: DB=MYSQL
 
 before_script:
