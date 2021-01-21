@@ -1,6 +1,6 @@
 ## SilverStripe services recipe
 
-[![Build Status](https://travis-ci.org/silverstripe/recipe-services.svg?branch=master)](https://travis-ci.org/silverstripe/recipe-services)
+[![Build Status](https://api.travis-ci.com/silverstripe/recipe-services.svg?branch=1)](https://travis-ci.com/silverstripe/recipe-services)
 [![SilverStripe supported module](https://img.shields.io/badge/silverstripe-supported-0071C4.svg)](https://www.silverstripe.org/software/addons/silverstripe-commercially-supported-module-list/)
 
 This includes the following SilverStripe modules:
