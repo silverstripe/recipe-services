@@ -1,6 +1,8 @@
 <phpunit bootstrap="vendor/silverstripe/cms/tests/bootstrap.php" colors="true">
-    <testsuite name="recipe-services">
-        <directory>vendor/silverstripe/restfulserver/tests</directory>
-        <directory>vendor/silverstripe/versionfeed/tests</directory>
-    </testsuite>
+    <testsuites>
+        <testsuite name="recipe-services">
+            <directory>vendor/silverstripe/restfulserver/tests</directory>
+            <directory>vendor/silverstripe/versionfeed/tests</directory>
+        </testsuite>
+    </testsuites>
 </phpunit>
