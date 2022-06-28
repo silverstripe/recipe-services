@@ -1,5 +1,5 @@
 {
-  "github-slug": "silverstripe/recipe-authoring-tools",
+  "github-slug": "silverstripe/recipe-services",
   "child-stability-inherit": false,
   "dependency-constraint": "loose",
   "vendors": [
